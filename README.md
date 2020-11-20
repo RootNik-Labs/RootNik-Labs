@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm RootNik Labs</h1>
 <h3 align="center">RootNik Lab's is a leading product and service based cyber security company which provides security consultancy & cyber risk assessment services to keep your business safe & secure. Our team of professionals has experience in securing critical assets of corporate clients across sectors like banking, health, finance, automobiles and technology.</h3>
 
-- 💬 Ask me about **Cyber Security,AI & Machine Learning.**
+- 💬 Ask me about **Cyber Security, AI & Machine Learning.**
 
 - 📫 How to reach me **info@rootniklabs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rootniklabs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rootniklabs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rootniklabs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rootniklabs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/rootniklabs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rootniklabs" height="30" width="40" /></a>
 <a href="https://fb.com/rootniklabs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rootniklabs" height="30" width="40" /></a>
 <a href="https://instagram.com/rootniklabs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rootniklabs" height="30" width="40" /></a>
 </p>
