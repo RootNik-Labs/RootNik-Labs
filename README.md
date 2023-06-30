@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're RootNik Labs</h1>
-<h3 align="center">RootNik Lab's is a leading product and service based cyber security company which provides security consultancy & cyber risk assessment services to keep your business safe & secure. Our team of professionals has experience in securing critical assets of corporate clients across sectors like banking, health, finance, automobiles and technology.</h3>
+<h3 align="center">RootNik Labs is a leading product and service based cyber security company which provides security consultancy & cyber risk assessment services to keep your business safe & secure. Our team of professionals has experience in securing critical assets of corporate clients across sectors like banking, health, finance, automobiles and technology.</h3>
 
 - 💬 Ask me about **Cyber Security, AI & Machine Learning.**
 
